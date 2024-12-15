@@ -45,6 +45,12 @@ The project uses a combination of GCP tools and technologies to process and anal
 4. **Data Visualization**:
    - The processed data is visualized using **Looker Studio** (formerly Google Data Studio), with interactive dashboards highlighting key metrics and patterns in stroke predictions.
 
+
+![Alt text for the image](/patient_stroke.png)
+
+
+
+
 ---
 
 ## Findings
